@@ -36,8 +36,8 @@ Output: The most probable next word based on training data
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/next-word-lstm.git
-cd next-word-lstm
+git clone https://github.com/mansiA07/next_word_prediction
+cd next_word_prediction
 2. Install Requirements
 bash
 Copy
